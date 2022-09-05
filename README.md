@@ -1,4 +1,12 @@
-### Hi there 👋
+#### Hello there! 👋
+Some cool tech stuff I've been using:
+- Front: HTML, CSS, JavaScript, TypeScript, React
+- Back: JavaScript, TypeScript, Node.js, PostgreSQL, Prisma, Express
+
+Feel free to get in contact
+
+[![](https://shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/acfernanda/)
+[![](https://shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:acfernanda98@gmail.com)
 
 <!--
 **ACFernanda/ACFernanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
